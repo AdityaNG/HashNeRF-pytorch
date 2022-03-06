@@ -785,7 +785,7 @@ def train():
 
 
     #N_iters = 50000 + 1
-    N_iters = 50 + 1
+    N_iters = 5000 + 1
     print('Begin')
     print('TRAIN views are', i_train)
     print('TEST views are', i_test)
